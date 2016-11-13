@@ -1,2 +1,3 @@
 # docker-php
-Docker php image
+
+Docker image for php
